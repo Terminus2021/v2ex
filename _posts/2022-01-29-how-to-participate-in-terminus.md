@@ -7,7 +7,7 @@ tags: Special
 description: V2EX搬运计划，是在 GitHub 开放平台搭建的一个站点，以去中心化的方式搬运并备份V2EX论坛帖子。
 is_sticky: true
 ---
-## 端点星计划是什么
+## V2EX搬运计划是什么
 
 V2EX搬运计划，是在 GitHub 开放平台搭建的一个站点，用于搬运并备份V2EX论坛文章。  
 2022年1月发起，以向墙内搬运V2EX论坛文章为主。
