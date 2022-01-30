@@ -54,7 +54,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in footer
-footer-text: 创意工作者们的社区 ·World is powered by solitude · 3.9.8.5 · Developed with CodeLauncher · ♥ Do have faith in what you're doing.
+footer-text: 创意工作者们的社区 ·World is powered by solitude · 3.9.8.5<br>Developed with CodeLauncher<br>♥ Do have faith in what you're doing.
 
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
