@@ -22,14 +22,10 @@ description: way to explore
 navigation:
   - name: 首页
     url: /
-  - name: 节点
-    url: /tags.html
-  - name: 分类
-    url: /categories.html
-  - name: 订阅
-    url: /atom.xml
-  - name: 关于
-    url: /about.html
+  - name: 注册
+    url: https://v2ex.com/signup
+  - name: 登录
+    url: https://v2ex.com/signin
 
 # Pagination
 paginate: 20
